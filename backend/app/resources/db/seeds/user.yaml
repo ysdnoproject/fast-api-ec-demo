@@ -1,0 +1,10 @@
+user1:
+  email: user@example.com
+  password: password
+  phone: 17545125685
+  name: username
+user2:
+  email: user2@example.com
+  password: password
+  phone: 13545125685
+  name: username2
