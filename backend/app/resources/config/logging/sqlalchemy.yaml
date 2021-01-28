@@ -1,0 +1,5 @@
+version: 1
+loggers:
+  sqlalchemy.engine:
+    level: DEBUG
+disable_existing_loggers: 0
