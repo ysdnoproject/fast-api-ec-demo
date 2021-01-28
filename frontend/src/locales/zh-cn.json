@@ -1,0 +1,10 @@
+{
+  "error": {
+    "required": "不能为空",
+    "invalid": "格式不正确",
+    "confirmPasswordDiff": "两次输入的不一致"
+  },
+  "Incorrect username or password": "邮箱或者密码不正确",
+  "The user with this email already exists in the system.": "该邮箱已注册",
+  "register success": "注册成功"
+}

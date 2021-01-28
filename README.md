@@ -7,4 +7,3 @@ PYTHONPATH=. poetry run alembic upgrade head
 PYTHONPATH=. poetry run python src/db/seeds.py
 PYTHONPATH=. poetry run uvicorn src.main:app
 ```
-
